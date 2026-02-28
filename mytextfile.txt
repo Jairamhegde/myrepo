@@ -1,2 +1,1 @@
-This is the sample text file
-this change is done by the user in the branch my branch
+This is the sample text 
